@@ -1,0 +1,13 @@
+div{
+    width: 18%;
+    height: 480px;
+    background-color: gray;
+    border: solid red;
+    float: left;
+    text-align: center;
+}
+img{
+    width: 50%;
+    height: 250px;
+    border-radius: 1px;
+}
